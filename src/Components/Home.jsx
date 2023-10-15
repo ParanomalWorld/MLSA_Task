@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/milky-way-2695569_1280.jpg";
 
-const imageAltText = "This is the background image uploaded by Samarthya";
+const imageAltText = "This is the background image reuploaded by Samarthya";
 
 const Home = ({ name, title }) => {
   return (
